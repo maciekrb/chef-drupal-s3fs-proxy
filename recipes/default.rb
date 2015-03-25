@@ -1,5 +1,5 @@
 # vim: set ft=ruby
-# Cookbook Name:: s3fs_proxy
+# Cookbook Name:: drupal_s3fs_proxy
 # Recipe:: default
 #
 # Copyright (C) 2015 YOUR_NAME
